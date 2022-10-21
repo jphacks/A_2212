@@ -1,0 +1,986 @@
+[
+    {
+        "course_code": "LI13",
+        "information": {
+            "withdrawal_rate": 0.8209876543209876,
+            "class_name": "LI13 コンピュータ理工学演習 I[演]",
+            "eval_overall": 4.146111111111111
+        }
+    },
+    {
+        "course_code": "PA01",
+        "information": {
+            "withdrawal_rate": 0.8378378378378378,
+            "class_name": "PA01 体育実技１ ",
+            "eval_overall": 4.417222222222223
+        }
+    },
+    {
+        "course_code": "OT02",
+        "information": {
+            "withdrawal_rate": 0.8108108108108109,
+            "class_name": "OT02 ベンチャー体験工房 2 (前期)[演]",
+            "eval_overall": 4.482727272727273
+        }
+    },
+    {
+        "course_code": "OT03-002",
+        "information": {
+            "withdrawal_rate": 0.2,
+            "class_name": "OT03-002 学内生活を便利にするアプリケーション・サービスを作ろう (前期)",
+            "eval_overall": 4.488
+        }
+    },
+    {
+        "course_code": "IE01",
+        "information": {
+            "withdrawal_rate": 0.5714285714285714,
+            "class_name": "IE01 システム総合演習 I [演]",
+            "eval_overall": 4.563333333333334
+        }
+    },
+    {
+        "course_code": "IE03",
+        "information": {
+            "withdrawal_rate": 0.7083333333333334,
+            "class_name": "IE03 ソフトウェア総合演習 I [演]",
+            "eval_overall": 3.5063636363636372
+        }
+    },
+    {
+        "course_code": "EN08",
+        "information": {
+            "withdrawal_rate": 0.0,
+            "class_name": "EN08 Thesis Writing and Presentation ",
+            "eval_overall": 4.686315789473683
+        }
+    },
+    {
+        "course_code": "OT08",
+        "information": {
+            "withdrawal_rate": -0.08139534883720931,
+            "class_name": "OT08 TOEIC準備コース(Level A) (前期)",
+            "eval_overall": 4.46
+        }
+    },
+    {
+        "course_code": "OT05",
+        "information": {
+            "withdrawal_rate": 0.2857142857142857,
+            "class_name": "OT05 キャリアデザインI",
+            "eval_overall": 4.433333333333334
+        }
+    },
+    {
+        "course_code": "PA03",
+        "information": {
+            "withdrawal_rate": 0.07692307692307693,
+            "class_name": "PA03 体育実技３",
+            "eval_overall": 4.4675
+        }
+    },
+    {
+        "course_code": "TE18",
+        "information": {
+            "withdrawal_rate": 0.0,
+            "class_name": "TE18 教育実習事前事後指導",
+            "eval_overall": 4.67
+        }
+    },
+    {
+        "course_code": "SE05",
+        "information": {
+            "withdrawal_rate": 0.5,
+            "class_name": "SE05 ソフトウェアスタジオ ",
+            "eval_overall": 4.3933333333333335
+        }
+    },
+    {
+        "course_code": "OT03-001",
+        "information": {
+            "withdrawal_rate": 0.16666666666666666,
+            "class_name": "OT03-001 大規模分散Webインフラ構築入門 (前期)",
+            "eval_overall": 4.364
+        }
+    },
+    {
+        "course_code": "OT03-003",
+        "information": {
+            "withdrawal_rate": 0.0,
+            "class_name": "OT03-003 AI・ロボットと倫理 (前期)",
+            "eval_overall": 4.7475000000000005
+        }
+    },
+    {
+        "course_code": "OT03-004",
+        "information": {
+            "withdrawal_rate": 0.0625,
+            "class_name": "OT03-004 月惑星データ解析＆国際宇宙ステーションたんぽぽプロジェクト (前期)",
+            "eval_overall": 4.654000000000001
+        }
+    },
+    {
+        "course_code": "OT03-005",
+        "information": {
+            "withdrawal_rate": 0.0,
+            "class_name": "OT03-005 教師になろう！ (前期)",
+            "eval_overall": 4.681666666666667
+        }
+    },
+    {
+        "course_code": "OT03-006",
+        "information": {
+            "withdrawal_rate": 0.0,
+            "class_name": "OT03-006 機械学習技術の紹介とレコメンダーシステムへの応用 (前期)",
+            "eval_overall": 4.713333333333334
+        }
+    },
+    {
+        "course_code": "OT03-008",
+        "information": {
+            "withdrawal_rate": 0.0,
+            "class_name": "OT03-008 韓国語と韓国文化 (前期)",
+            "eval_overall": 4.715
+        }
+    },
+    {
+        "course_code": "OT03-009",
+        "information": {
+            "withdrawal_rate": 0.0,
+            "class_name": "OT03-009 社会調査とICTによる地域サポートプロジェクト (前期)",
+            "eval_overall": 4.305
+        }
+    },
+    {
+        "course_code": "OT03-010",
+        "information": {
+            "withdrawal_rate": 0.0,
+            "class_name": "OT03-010 課題解決型プロジェクト入門 - 理工系学生のための異文化理解及び地域イノベーション - (前期)",
+            "eval_overall": 4.616666666666666
+        }
+    },
+    {
+        "course_code": "OT03-011",
+        "information": {
+            "withdrawal_rate": 0.0,
+            "class_name": "OT03-011 論理的思考、批判的思考(クリティカルシンキング) (前期)",
+            "eval_overall": 4.657500000000001
+        }
+    },
+    {
+        "course_code": "OT03-012",
+        "information": {
+            "withdrawal_rate": 0.0,
+            "class_name": "OT03-012 Human Body Motion Analysis Project (S1)",
+            "eval_overall": 3.9074999999999998
+        }
+    },
+    {
+        "course_code": "OT03-013",
+        "information": {
+            "withdrawal_rate": 0.0,
+            "class_name": "OT03-013 競技用ロボットの開発 (前期)",
+            "eval_overall": 4.529999999999999
+        }
+    },
+    {
+        "course_code": "OT03-014",
+        "information": {
+            "withdrawal_rate": 0.038461538461538464,
+            "class_name": "OT03-014 コンピュータを使った音と映像のコンテンツ制作 (前期)",
+            "eval_overall": 4.685
+        }
+    },
+    {
+        "course_code": "OT03-016",
+        "information": {
+            "withdrawal_rate": 0.0,
+            "class_name": "OT03-016 会津ならではのスポーツ活動 (前期)",
+            "eval_overall": 4.699999999999999
+        }
+    },
+    {
+        "course_code": "OT03-017",
+        "information": {
+            "withdrawal_rate": 0.14285714285714285,
+            "class_name": "OT03-017 電子工作プロジェクト (前期)",
+            "eval_overall": 4.1975
+        }
+    },
+    {
+        "course_code": "OT03-018",
+        "information": {
+            "withdrawal_rate": 0.0,
+            "class_name": "OT03-018 マナビーノ Arduino/Pi (前期)",
+            "eval_overall": 4.516666666666667
+        }
+    },
+    {
+        "course_code": "OT03-022",
+        "information": {
+            "withdrawal_rate": 0.0,
+            "class_name": "OT03-022 自分で作ったAI回路を動かそう！！ (前期)",
+            "eval_overall": 4.8575
+        }
+    },
+    {
+        "course_code": "OT03-023",
+        "information": {
+            "withdrawal_rate": 0.0,
+            "class_name": "OT03-023 Advanced Pattern Recognition and Software Development (S1)",
+            "eval_overall": 4.486666666666667
+        }
+    },
+    {
+        "course_code": "OT03-025",
+        "information": {
+            "withdrawal_rate": 0.0,
+            "class_name": "OT03-025 ソフトなハード「FPGA」を使ったLSI設計の基礎 (前期)",
+            "eval_overall": 4.715
+        }
+    },
+    {
+        "course_code": "OT03-026",
+        "information": {
+            "withdrawal_rate": 0.0,
+            "class_name": "OT03-026 コンピュータを使ってプログラムや理論の正しさを証明しよう (前期)",
+            "eval_overall": 4.795
+        }
+    },
+    {
+        "course_code": "OT03-027",
+        "information": {
+            "withdrawal_rate": 0.0,
+            "class_name": "OT03-027 SNSを活用する地域ブランディングの方法についての研究 (前期)",
+            "eval_overall": 4.3566666666666665
+        }
+    },
+    {
+        "course_code": "OT03-028",
+        "information": {
+            "withdrawal_rate": 0.07142857142857142,
+            "class_name": "OT03-028 競技プログラミング (前期)",
+            "eval_overall": 4.5725
+        }
+    },
+    {
+        "course_code": "OT03-029",
+        "information": {
+            "withdrawal_rate": 0.018518518518518517,
+            "class_name": "OT03-029 実践的プログラミング (前期)",
+            "eval_overall": 4.855
+        }
+    },
+    {
+        "course_code": "HS01",
+        "information": {
+            "withdrawal_rate": 0.029850746268656716,
+            "class_name": "HS01 哲学",
+            "eval_overall": 4.510000000000001
+        }
+    },
+    {
+        "course_code": "HS04",
+        "information": {
+            "withdrawal_rate": 0.5,
+            "class_name": "HS04 言語学",
+            "eval_overall": 3.745
+        }
+    },
+    {
+        "course_code": "HS05",
+        "information": {
+            "withdrawal_rate": 0.0625,
+            "class_name": "HS05 文学",
+            "eval_overall": 4.35
+        }
+    },
+    {
+        "course_code": "HS07",
+        "information": {
+            "withdrawal_rate": 0.5031847133757962,
+            "class_name": "HS07 ジェンダー・セクシュアリティ論",
+            "eval_overall": 4.676666666666667
+        }
+    },
+    {
+        "course_code": "HS10",
+        "information": {
+            "withdrawal_rate": 0.6785714285714286,
+            "class_name": "HS10 経済学",
+            "eval_overall": 4.593333333333334
+        }
+    },
+    {
+        "course_code": "HS13",
+        "information": {
+            "withdrawal_rate": 0.02702702702702703,
+            "class_name": "HS13 国際関係論",
+            "eval_overall": 4.526666666666666
+        }
+    },
+    {
+        "course_code": "LI07",
+        "information": {
+            "withdrawal_rate": 0.0,
+            "class_name": "LI07 情報と職業",
+            "eval_overall": 4.66
+        }
+    },
+    {
+        "course_code": "LI12",
+        "information": {
+            "withdrawal_rate": 0.0,
+            "class_name": "LI12 創造力開発スタジオ[演]",
+            "eval_overall": 4.39
+        }
+    },
+    {
+        "course_code": "OT04",
+        "information": {
+            "withdrawal_rate": 0.0,
+            "class_name": "OT04 情報処理試験対策講座",
+            "eval_overall": 4.545
+        }
+    },
+    {
+        "course_code": "PA04",
+        "information": {
+            "withdrawal_rate": 0.0,
+            "class_name": "PA04 体育実技４ （水泳）",
+            "eval_overall": 4.551818181818183
+        }
+    },
+    {
+        "course_code": "TE01",
+        "information": {
+            "withdrawal_rate": 0.06666666666666667,
+            "class_name": "TE01 教師入門",
+            "eval_overall": 4.88
+        }
+    },
+    {
+        "course_code": "TE15",
+        "information": {
+            "withdrawal_rate": 0.0,
+            "class_name": "TE15 キャリア教育",
+            "eval_overall": 4.65
+        }
+    },
+    {
+        "course_code": "TE16",
+        "information": {
+            "withdrawal_rate": 0.0,
+            "class_name": "TE16 教育実習１",
+            "eval_overall": 4.77
+        }
+    },
+    {
+        "course_code": "TE17",
+        "information": {
+            "withdrawal_rate": 0.0,
+            "class_name": "TE17 教育実習２",
+            "eval_overall": -1
+        }
+    },
+    {
+        "course_code": "TE21",
+        "information": {
+            "withdrawal_rate": 0.13333333333333333,
+            "class_name": "TE21 特別支援教育入門",
+            "eval_overall": 4.46
+        }
+    },
+    {
+        "course_code": "TE22",
+        "information": {
+            "withdrawal_rate": 0.07142857142857142,
+            "class_name": "TE22 総合的な学習の時間の指導法",
+            "eval_overall": 4.92
+        }
+    },
+    {
+        "course_code": "EL155",
+        "information": {
+            "withdrawal_rate": 0.025,
+            "class_name": "EL155 Notetaking and Listening Skills for Academic Lectures in English",
+            "eval_overall": -1
+        }
+    },
+    {
+        "course_code": "EL248",
+        "information": {
+            "withdrawal_rate": 0.0,
+            "class_name": "EL248 Visualization and Storytelling in Data Science",
+            "eval_overall": -1
+        }
+    },
+    {
+        "course_code": "FU05",
+        "information": {
+            "withdrawal_rate": 0.8149779735682819,
+            "class_name": "FU05 コンピュータアーキテクチャ論 ",
+            "eval_overall": 3.844074074074075
+        }
+    },
+    {
+        "course_code": "IT06",
+        "information": {
+            "withdrawal_rate": 0.034482758620689655,
+            "class_name": "IT06 ヒューマンインターフェイスと仮想現実 ",
+            "eval_overall": 4.5685714285714285
+        }
+    },
+    {
+        "course_code": "JP03",
+        "information": {
+            "withdrawal_rate": 0.0,
+            "class_name": "JP03 中級日本語 I ",
+            "eval_overall": 4.6433333333333335
+        }
+    },
+    {
+        "course_code": "LI01",
+        "information": {
+            "withdrawal_rate": 0.6855123674911661,
+            "class_name": "LI01 コンピュータリテラシー ",
+            "eval_overall": 4.20235294117647
+        }
+    },
+    {
+        "course_code": "MA05",
+        "information": {
+            "withdrawal_rate": 0.6704119850187266,
+            "class_name": "MA05 フーリエ解析",
+            "eval_overall": 3.9845454545454544
+        }
+    },
+    {
+        "course_code": "MA09",
+        "information": {
+            "withdrawal_rate": 0.12048192771084337,
+            "class_name": "MA09 数理論理学 ",
+            "eval_overall": 3.6533333333333338
+        }
+    },
+    {
+        "course_code": "PL03",
+        "information": {
+            "withdrawal_rate": 0.6777777777777778,
+            "class_name": "PL03 プログラミングJAVA I ",
+            "eval_overall": 3.8334375
+        }
+    },
+    {
+        "course_code": "EN05",
+        "information": {
+            "withdrawal_rate": 0.8470588235294118,
+            "class_name": "EN05 Intermediate English 1 ",
+            "eval_overall": 4.280384615384616
+        }
+    },
+    {
+        "course_code": "IT10",
+        "information": {
+            "withdrawal_rate": 0.14285714285714285,
+            "class_name": "IT10 ビジュアルコンピューティングのための幾何学 ",
+            "eval_overall": 3.9437499999999996
+        }
+    },
+    {
+        "course_code": "MA04",
+        "information": {
+            "withdrawal_rate": 0.07692307692307693,
+            "class_name": "MA04 微積分II ",
+            "eval_overall": 4.340400000000001
+        }
+    },
+    {
+        "course_code": "PL06",
+        "information": {
+            "withdrawal_rate": 0.10344827586206896,
+            "class_name": "PL06 プログラミングJAVA II ",
+            "eval_overall": 3.755555555555555
+        }
+    },
+    {
+        "course_code": "EN01",
+        "information": {
+            "withdrawal_rate": 0.825925925925926,
+            "class_name": "EN01 Introductory English 1 ",
+            "eval_overall": 4.171176470588236
+        }
+    },
+    {
+        "course_code": "IT05",
+        "information": {
+            "withdrawal_rate": 0.0,
+            "class_name": "IT05 ロボット工学と自動制御 ",
+            "eval_overall": 4.726000000000001
+        }
+    },
+    {
+        "course_code": "IT09",
+        "information": {
+            "withdrawal_rate": 0.4444444444444444,
+            "class_name": "IT09 音響音声処理論 ",
+            "eval_overall": 4.188
+        }
+    },
+    {
+        "course_code": "JP07",
+        "information": {
+            "withdrawal_rate": 0.2857142857142857,
+            "class_name": "JP07 ビジネス日本語 ",
+            "eval_overall": 4.305
+        }
+    },
+    {
+        "course_code": "MA01",
+        "information": {
+            "withdrawal_rate": 0.6702508960573477,
+            "class_name": "MA01 線形代数I ",
+            "eval_overall": 3.8800000000000012
+        }
+    },
+    {
+        "course_code": "OT01",
+        "information": {
+            "withdrawal_rate": 0.016129032258064516,
+            "class_name": "OT01 ベンチャー基本コース各論 I",
+            "eval_overall": 4.25
+        }
+    },
+    {
+        "course_code": "EL146",
+        "information": {
+            "withdrawal_rate": 0.0,
+            "class_name": "EL146 Corpus Linguistics for Language Learners",
+            "eval_overall": 4.48
+        }
+    },
+    {
+        "course_code": "EL244",
+        "information": {
+            "withdrawal_rate": 0.0,
+            "class_name": "EL244 An Introduction to Cross-cultural Communication",
+            "eval_overall": 4.456666666666667
+        }
+    },
+    {
+        "course_code": "EL315",
+        "information": {
+            "withdrawal_rate": 0.13043478260869565,
+            "class_name": "EL315 Design and Analysis for IT Business",
+            "eval_overall": 3.973333333333333
+        }
+    },
+    {
+        "course_code": "EL331",
+        "information": {
+            "withdrawal_rate": 0.0,
+            "class_name": "EL331 Authorship analysis using Python",
+            "eval_overall": -1
+        }
+    },
+    {
+        "course_code": "MA07",
+        "information": {
+            "withdrawal_rate": 0.65625,
+            "class_name": "MA07 確率統計学 ",
+            "eval_overall": 4.075833333333333
+        }
+    },
+    {
+        "course_code": "NS03",
+        "information": {
+            "withdrawal_rate": 0.14285714285714285,
+            "class_name": "NS03 量子力学",
+            "eval_overall": 4.238
+        }
+    },
+    {
+        "course_code": "TE05",
+        "information": {
+            "withdrawal_rate": 0.0,
+            "class_name": "TE05 教育方法",
+            "eval_overall": 4.52
+        }
+    },
+    {
+        "course_code": "HS20",
+        "information": {
+            "withdrawal_rate": 0.503731343283582,
+            "class_name": "HS20 アカデミックスキル１ <C1-C3> ",
+            "eval_overall": 4.15625
+        }
+    },
+    {
+        "course_code": "FU10",
+        "information": {
+            "withdrawal_rate": 0.12121212121212122,
+            "class_name": "FU10 言語処理系論",
+            "eval_overall": 4.154
+        }
+    },
+    {
+        "course_code": "IT08",
+        "information": {
+            "withdrawal_rate": 0.7380952380952381,
+            "class_name": "IT08 信号処理と線形システム ",
+            "eval_overall": 3.925333333333333
+        }
+    },
+    {
+        "course_code": "PL02",
+        "information": {
+            "withdrawal_rate": 0.13333333333333333,
+            "class_name": "PL02 プログラミングC ",
+            "eval_overall": 4.147333333333334
+        }
+    },
+    {
+        "course_code": "FU14",
+        "information": {
+            "withdrawal_rate": 0.808695652173913,
+            "class_name": "FU14 ソフトウェア工学概論 ",
+            "eval_overall": 4.006428571428571
+        }
+    },
+    {
+        "course_code": "LI04",
+        "information": {
+            "withdrawal_rate": 0.0,
+            "class_name": "LI04 コンピュータシステム概論 ",
+            "eval_overall": 4.106
+        }
+    },
+    {
+        "course_code": "MA03",
+        "information": {
+            "withdrawal_rate": 0.7634146341463415,
+            "class_name": "MA03 微積分I ",
+            "eval_overall": 4.032272727272727
+        }
+    },
+    {
+        "course_code": "PL05",
+        "information": {
+            "withdrawal_rate": 0.1,
+            "class_name": "PL05 コンピュータ言語論",
+            "eval_overall": 4.286
+        }
+    },
+    {
+        "course_code": "LI03",
+        "information": {
+            "withdrawal_rate": 0.0035971223021582736,
+            "class_name": "LI03 コンピュータ理工学のすすめ ",
+            "eval_overall": 4.202
+        }
+    },
+    {
+        "course_code": "TE02",
+        "information": {
+            "withdrawal_rate": 0.5833333333333334,
+            "class_name": "TE02 教育入門",
+            "eval_overall": 4.473333333333333
+        }
+    },
+    {
+        "course_code": "LI08",
+        "information": {
+            "withdrawal_rate": 0.5181818181818182,
+            "class_name": "LI08 情報倫理 ",
+            "eval_overall": 3.8939999999999997
+        }
+    },
+    {
+        "course_code": "TE06",
+        "information": {
+            "withdrawal_rate": 0.0,
+            "class_name": "TE06 数学科教育法１",
+            "eval_overall": 4.59
+        }
+    },
+    {
+        "course_code": "LI06",
+        "information": {
+            "withdrawal_rate": 0.0,
+            "class_name": "LI06 情報セキュリティ ",
+            "eval_overall": 4.068
+        }
+    },
+    {
+        "course_code": "EN02",
+        "information": {
+            "withdrawal_rate": 0.8345070422535211,
+            "class_name": "EN02 Introductory English 2 ",
+            "eval_overall": 4.205555555555555
+        }
+    },
+    {
+        "course_code": "FU03",
+        "information": {
+            "withdrawal_rate": 0.8310344827586207,
+            "class_name": "FU03 離散系論 ",
+            "eval_overall": 3.997777777777777
+        }
+    },
+    {
+        "course_code": "FU09",
+        "information": {
+            "withdrawal_rate": 0.8636363636363636,
+            "class_name": "FU09 アルゴリズムとデータ構造 II ",
+            "eval_overall": 4.148461538461538
+        }
+    },
+    {
+        "course_code": "MA08",
+        "information": {
+            "withdrawal_rate": 0.5916666666666667,
+            "class_name": "MA08 応用代数 ",
+            "eval_overall": 3.84
+        }
+    },
+    {
+        "course_code": "NS01",
+        "information": {
+            "withdrawal_rate": 0.5862068965517241,
+            "class_name": "NS01 力学 ",
+            "eval_overall": 4.154285714285715
+        }
+    },
+    {
+        "course_code": "SE01",
+        "information": {
+            "withdrawal_rate": 0.0,
+            "class_name": "SE01 ウェブエンジニアリング ",
+            "eval_overall": 3.98
+        }
+    },
+    {
+        "course_code": "IT02",
+        "information": {
+            "withdrawal_rate": 0.6814814814814815,
+            "class_name": "IT02 コンピュータグラフィックス論 ",
+            "eval_overall": 4.053333333333333
+        }
+    },
+    {
+        "course_code": "IT03",
+        "information": {
+            "withdrawal_rate": 0.0,
+            "class_name": "IT03 画像処理論 ",
+            "eval_overall": 4.327999999999999
+        }
+    },
+    {
+        "course_code": "NS02",
+        "information": {
+            "withdrawal_rate": 0.07142857142857142,
+            "class_name": "NS02 電磁気学 ",
+            "eval_overall": 4.0190625
+        }
+    },
+    {
+        "course_code": "CN02",
+        "information": {
+            "withdrawal_rate": 0.0,
+            "class_name": "CN02 ネットワークセキュリティ ",
+            "eval_overall": 3.9400000000000004
+        }
+    },
+    {
+        "course_code": "EN06",
+        "information": {
+            "withdrawal_rate": 0.8199233716475096,
+            "class_name": "EN06 Intermediate English 2 ",
+            "eval_overall": 4.273846153846154
+        }
+    },
+    {
+        "course_code": "PL01",
+        "information": {
+            "withdrawal_rate": 0.6701388888888888,
+            "class_name": "PL01 プログラミング入門 ",
+            "eval_overall": 4.4035714285714285
+        }
+    },
+    {
+        "course_code": "SE07",
+        "information": {
+            "withdrawal_rate": 0.0,
+            "class_name": "SE07 データベースシステム論 ",
+            "eval_overall": 3.558571428571429
+        }
+    },
+    {
+        "course_code": "SY07",
+        "information": {
+            "withdrawal_rate": 0.0,
+            "class_name": "SY07 論理回路設計特論 ",
+            "eval_overall": 4.4239999999999995
+        }
+    },
+    {
+        "course_code": "JP04",
+        "information": {
+            "withdrawal_rate": 0.0,
+            "class_name": "JP04 中級日本語 II ",
+            "eval_overall": 4.89
+        }
+    },
+    {
+        "course_code": "TE04",
+        "information": {
+            "withdrawal_rate": 0.0,
+            "class_name": "TE04 教育課程論",
+            "eval_overall": 4.263333333333333
+        }
+    },
+    {
+        "course_code": "MA02",
+        "information": {
+            "withdrawal_rate": 0.5,
+            "class_name": "MA02 線形代数II ",
+            "eval_overall": 4.1450000000000005
+        }
+    },
+    {
+        "course_code": "SY06",
+        "information": {
+            "withdrawal_rate": 0.1282051282051282,
+            "class_name": "SY06 VLSI設計技術 ",
+            "eval_overall": 4.464
+        }
+    },
+    {
+        "course_code": "EL144",
+        "information": {
+            "withdrawal_rate": 0.0,
+            "class_name": "EL144 Conversation Analysis and the Pragmatics of Spoken Interaction",
+            "eval_overall": 4.49
+        }
+    },
+    {
+        "course_code": "EL222",
+        "information": {
+            "withdrawal_rate": 0.0,
+            "class_name": "EL222 Business Writing and Presentations",
+            "eval_overall": 4.256666666666667
+        }
+    },
+    {
+        "course_code": "EL314",
+        "information": {
+            "withdrawal_rate": 0.0,
+            "class_name": "EL314 Experimental Methods and Statistics for Linguistics",
+            "eval_overall": 4.550000000000001
+        }
+    },
+    {
+        "course_code": "EL329",
+        "information": {
+            "withdrawal_rate": 0.0,
+            "class_name": "EL329 Critical Thinking",
+            "eval_overall": 4.6499999999999995
+        }
+    },
+    {
+        "course_code": "FU15",
+        "information": {
+            "withdrawal_rate": 0.0,
+            "class_name": "FU15 データマネジメント概論 ",
+            "eval_overall": 3.6723999999999997
+        }
+    },
+    {
+        "course_code": "EL247",
+        "information": {
+            "withdrawal_rate": 0.0,
+            "class_name": "EL247 Second Language Acquisition Methods",
+            "eval_overall": -1
+        }
+    },
+    {
+        "course_code": "EL317",
+        "information": {
+            "withdrawal_rate": 0.0,
+            "class_name": "EL317 Patterns and language",
+            "eval_overall": 4.4350000000000005
+        }
+    },
+    {
+        "course_code": "FU01",
+        "information": {
+            "withdrawal_rate": 0.0,
+            "class_name": "FU01 アルゴリズムとデータ構造 I ",
+            "eval_overall": 4.0896875
+        }
+    },
+    {
+        "course_code": "LI09",
+        "information": {
+            "withdrawal_rate": 0.0,
+            "class_name": "LI09 システム開発とプロジェクトマネジメントの基礎",
+            "eval_overall": 4.593333333333334
+        }
+    },
+    {
+        "course_code": "NS05",
+        "information": {
+            "withdrawal_rate": 0.966824644549763,
+            "class_name": "NS05 熱・統計力学 ",
+            "eval_overall": 4.159999999999999
+        }
+    },
+    {
+        "course_code": "HS11",
+        "information": {
+            "withdrawal_rate": 0.0,
+            "class_name": "HS11 社会学",
+            "eval_overall": 4.497999999999999
+        }
+    },
+    {
+        "course_code": "HS12",
+        "information": {
+            "withdrawal_rate": 0.0,
+            "class_name": "HS12 日本国憲法",
+            "eval_overall": 3.545
+        }
+    },
+    {
+        "course_code": "HS16",
+        "information": {
+            "withdrawal_rate": 0.0,
+            "class_name": "HS16 保健体育理論",
+            "eval_overall": 4.426666666666667
+        }
+    },
+    {
+        "course_code": "HS17",
+        "information": {
+            "withdrawal_rate": 0.0,
+            "class_name": "HS17 科学史",
+            "eval_overall": 4.579999999999999
+        }
+    },
+    {
+        "course_code": "TE07",
+        "information": {
+            "withdrawal_rate": 0.0,
+            "class_name": "TE07 数学科教育法２",
+            "eval_overall": 4.476666666666667
+        }
+    },
+    {
+        "course_code": "TE10",
+        "information": {
+            "withdrawal_rate": 0.0,
+            "class_name": "TE10 情報科教育法１",
+            "eval_overall": 4.4799999999999995
+        }
+    }
+]
