@@ -1,0 +1,46 @@
+<!DOCTYPE html>
+<html lang="ja">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width = device-width" , initial-scale=1.0">
+    <title>授業評価システム(仮)</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+
+<body>
+    <header>
+        <a href="../index.html" class="logo">Teval</a>
+        <ul class="navigation">
+            <li><a href="../../../index.html">Home</a></li>
+            <li><a href="../../../Review/Review.html">Review</a></li>
+            <li><a href="../../Ranking.html">Ranking</a></li>
+            <li><a href="../../../About/about.html">About us</a></li>
+        </ul>
+    </header>
+
+    <div>
+        <section class="headline">
+            <h1>総合評価ランキングと履修取消率ランキング</h1>
+        </section>
+        <main class="content">
+            <div class="quarter">
+                <h2>2022年3学期</h2>
+                <hr aria-hidden="true" class="sb-rule pb" size="0.2">
+                <section class="prev-semester">
+                    <a href="evaluate/evaluate.html">
+                        <h3>総合評価ランキング</h3>
+                    </a>
+                    <a href="withdraw/withdraw.html">
+                        <h3>履修取消ランキング</h3>
+                    </a>
+                </section>
+            </div>
+        </main>
+
+        <script type="module" src="https://unpkg.com/ionicons@5.5.2/dist/ionicons/ionicons.esm.js"></script>
+        <script nomodule src="https://unpkg.com/ionicons@5.5.2/dist/ionicons/ionicons.js"></script>
+
+</body>
+
+</html>

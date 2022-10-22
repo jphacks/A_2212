@@ -1,0 +1,55 @@
+<!DOCTYPE html>
+<html lang="ja">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width = device-width" , initial-scale=1.0">
+    <title>授業評価システム(仮)</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+
+<body>
+    <header>
+        <a href="index.html" class="logo">Teval</a>
+        <ul class="navigation">
+            <li><a href="index.html">Home</a></li>
+            <li><a href="Review/Review.html">Review</a></li>
+            <li><a href="Ranking/Ranking.html">Ranking</a></li>
+            <!--<li><a href="../Statistics/Statistics.html">Statistics</a></li>-->
+            <li><a href="About/about.html">About us</a></li>
+        </ul>
+        <div class="search">
+            <form method="get" action="http://www.google.co.jp/search" target="_blank">
+                <input type="text" placeholder="間に合いませんでした。">
+                <input type="submit" name="submit" value="検索">
+                <input type="hidden" name="hl" value="ja">
+                <input type="hidden" name="sitesearch" value="https://ken-sevenseas.github.io">
+                <ion-icon name="search-outline"></ion-icon>
+            </form>
+        </div>
+    </header>
+    <div class="banner">
+        <div class="content">
+            <h2>生徒が教師を評価してもいいじゃないか</h2>
+            <p>履修を計画するときに重要視していることは何ですか？単位取得がの簡単さや授業の質の高さなど、その答えは十人十色だと思います。これは履修を計画する全ての人のためのツールです。</p>
+        </div>
+        <img src="3362.png" class="image" width="30%" height="30%">
+    </div>
+    <script type="module" src="https://unpkg.com/ionicons@5.5.2/dist/ionicons/ionicons.esm.js"></script>
+    <script nomodule src="https://unpkg.com/ionicons@5.5.2/dist/ionicons/ionicons.js"></script>
+    <script>
+        document.querySelector(`.image`).animate(
+            [
+                { transform: 'rotate(0deg)' },
+                { transform: 'rotate(360deg)' }
+            ],
+            {
+                duration: 500,
+                easing: 'linear',
+                iterations: 1
+            }
+        );
+    </script>
+</body>
+
+</html>

@@ -1,0 +1,119 @@
+<!DOCTYPE html>
+<html lang="ja">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width = device-width" , initial-scale=1.0">
+    <title>授業評価システム(仮)</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+
+<body>
+    <header>
+        <a href="../index.html" class="logo">Teval</a>
+        <ul class="navigation">
+            <li><a href="../index.html">Home</a></li>
+            <li><a href="../Review/Review.html">Review</a></li>
+            <li><a href="../Ranking/Ranking.html">Ranking</a></li>
+            <!--<li><a href="../Statistics/Statistics.html">Statistics</a></li>-->
+            <li><a href="../About/about.html">About us</a></li>
+        </ul>
+        <!--
+        <div class="search">
+            <input type="text" placeholder="これはいらない気もする">
+            <ion-icon name="search-outline"></ion-icon>
+        </div> -->
+    </header>
+    <navi class="side-navi">
+        <section>
+            <ul>
+                <h4>教養科目</h4>
+                <li><a href="genelal/genelal.html">人文社会</a></li>
+                <li><a href="genelal/PE.html">体育実技</a></li>
+                <h4>外国語科目</h4>
+                <li><a href="language/english.html">英語科目</a></li>
+                <li><a href="language/EL1.html">EL1</a></li>
+                <li><a href="language/EL2.html">EL2</a></li>
+                <li><a href="language/EL3.html">EL3</a></li>
+                <h4>専門教育科目</h4>
+                <li><a href="special/Math.html">数学</a></li>
+                <li><a href="special/NatureScience.html">自然科学</a></li>
+                <li><a href="special/ComputerBasic.html">コンピュータ基礎</a></li>
+                <li><a href="special/Programing.html">プログラミング</a></li>
+                <li><a href="ComputerScienceAndEngineeringBasics.html">コンピュータ理工学基礎</a></li>
+                <li><a href="special/ComputerSystem.html">コンピュータ・システム</a></li>
+                <li><a href="special/ComputerSystem.html">コンピュータ・ネットワーク</a></li>
+                <li><a href="special/Application.html">アプリケーション</a></li>
+                <li><a href="special/SoftwareEngineering.html">ソフトウェア・エンジニアリング</a></li>
+                <li><a href="special/GeneralExercises.html">総合演習</a></li>
+            </ul>
+        </section>
+    </navi>
+    <main class="contents">
+        <h1>科目</h1>
+        <div class="subject">
+            <h2>教養科目</h2>
+            <hr aria-hidden="true" class="sb-rule pb" size="0.2" width="700">
+            <section class="genelal">
+                <a href="genelal/genelal.html">
+                    <h3>人文社会</h3>
+                </a>
+                <a href="genelal/PE.html">
+                    <h3>体育実技</h3>
+                </a>
+            </section>
+            <section class="language">
+                <h2 class="pu">外国語科目</h2>
+                <hr aria-hidden="true" class="sb-rule pb" size="0.2">
+                <a href="language/english.html">
+                    <h3>英語科目</h3>
+                </a>
+                <a href="language/EL1.html">
+                    <h3>EL1</h3>
+                </a>
+                <a href="language/EL2.html">
+                    <h3>EL2</h3>
+                </a>
+                <a href="language/EL3.html">
+                    <h3>EL3</h3>
+                </a>
+            </section>
+            <section class="special">
+                <h2 class="pu">専門教育科目</h2>
+                <hr aria-hidden="true" class="sb-rule pb" size="0.2">
+                <a href="special/Math.html">
+                    <h3>数学</h3>
+                </a>
+                <a href="special/NatureScience.html">
+                    <h3>自然科学</h3>
+                </a>
+                <a href="special/ComputerBasic.html">
+                    <h3>コンピュータ基礎</h3>
+                </a>
+                <a href="special/Programing.html">
+                    <h3>プログラミング</h3>
+                </a>
+                <a href="special/ComputerScienceAndEngineeringBasics.html">
+                    <h3>コンピュータ理工学基礎</h3>
+                </a>
+                <a href="special/ComputerSystem.html">
+                    <h3>コンピュータ・システム</h3>
+                </a>
+                <a href="special/Application.html">
+                    <h3>アプリケーション</h3>
+                </a>
+                <a href="special/SoftwareEngineering.html">
+                    <h3>ソフトウェア・エンジニアリング</h3>
+                </a>
+                <a href="special/GeneralExercises.html">
+                    <h3>総合演習</h3>
+                </a>
+            </section>
+        </div>
+    </main>
+
+    <script type="module" src="https://unpkg.com/ionicons@5.5.2/dist/ionicons/ionicons.esm.js"></script>
+    <script nomodule src="https://unpkg.com/ionicons@5.5.2/dist/ionicons/ionicons.js"></script>
+</body>
+
+</html>

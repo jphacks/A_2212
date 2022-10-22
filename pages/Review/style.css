@@ -1,0 +1,216 @@
+@import url('https://fonts.googleapis.com/css2?family=Ubuntu&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Noto+Sans+JP&family=Zen+Maru+Gothic&display=swap');
+
+.text-underline {
+    text-decoration: underline !important
+}
+
+.text-noUnderline {
+    text-decoration: none !important
+}
+
+.sb-rule {
+    border: 0;
+    margin: 0;
+}
+
+.pu {
+    padding-top: 2.5rem !important;
+}
+
+.pb {
+    padding-bottom: 2.5rem !important;
+}
+
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: 'Ubuntu', sans-serif;
+}
+
+/* ヘッダーの設定*/
+header {
+    background-color: #fff;
+    position: absolute;
+    position: fixed;
+    top: 0;
+    left: 0;
+    width: 100%;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 15px 100px;
+    z-index: 10;
+}
+
+/* これはロゴの設定 */
+header .logo {
+    position: relative;
+    font-size: 2.0em;
+    text-decoration: none;
+    font-weight: 600;
+    color: orange;
+}
+
+/* header .logo:hover {
+    color: orangered
+} */
+
+/* これはナビゲーションバーの設定 */
+header .navigation {
+    display: flex;
+    justify-content: center;
+    flex-wrap: wrap;
+    margin: 10px 0;
+}
+
+header .navigation li {
+    list-style: none;
+    margin: 0 10px;
+}
+
+header .navigation li a {
+    color: orange;
+    text-decoration: none;
+    font-weight: 500;
+    letter-spacing: 1px;
+}
+
+header .navigation li a:hover {
+    color: orangered
+}
+
+header .search {
+    position: relative;
+    width: 300px;
+    height: 40px;
+}
+
+header .search input {
+    position: absolute;
+    top: 0;
+    Left: 0;
+    width: 100%;
+    height: 100%;
+    background: transparent;
+    outline: solid black;
+    border: 1px solid #fff;
+    border-radius: 4px;
+    padding: 0 10px 0 45px;
+}
+
+header .search [name=search-outline] {
+    position: absolute;
+    top: 50%;
+    transform: translateY(-50%);
+    left: 10px;
+    color: black;
+    border-right: 2px solid;
+    padding-right: 10px;
+}
+
+header .search [name=submit] {
+    position: absolute;
+    left: 310px;
+    width: 20%;
+    height: 100%;
+    padding: 0;
+    border: 1px solid #fff;
+}
+
+s
+
+/* ホームコンテンツ */
+.banner {
+    background-color: antiquewhite;
+    padding: 200px 100px 100px;
+    min-height: 100vh;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.content h2 {
+    font-family: 'Zen Maru Gothic', sans-serif;
+}
+
+.content p {
+    font-family: 'Zen Maru Gothic', sans-serif;
+}
+
+/* サイドバー */
+.side-navi {
+    position: absolute;
+    top: 150px;
+    left: 70px;
+}
+
+.side-navi h4 {
+    font-family: 'Noto Sans JP', sans-serif;
+    padding: 10px 10px;
+}
+
+.side-navi li {
+    font-family: 'Noto Sans JP', sans-serif;
+    list-style: none;
+    padding: 10px 10px;
+}
+
+.side-navi li a {
+    text-decoration: none;
+    color: rgba(0, 0, 0, .58);
+}
+
+.side-navi li a:hover {
+    text-decoration: none;
+    color: rgba(0, 0, 0, .7);
+}
+
+/* main contents */
+.contents {
+    position: absolute;
+    top: 160px;
+    left: 400px;
+}
+
+.contents h1,
+h2,
+h3 {
+    font-family: 'Noto Sans JP', sans-serif;
+    padding-bottom: 50px;
+}
+
+.contents h2 {
+    font-family: 'Noto Sans JP', sans-serif;
+    padding-bottom: 10px;
+}
+
+.contents a {
+    color: rgba(0, 0, 0, .58);
+    text-decoration: none;
+}
+
+.contents hr {
+    display: block;
+    margin-block-start: 0.5em;
+    margin-block-end: 0.5em;
+    margin-inline-start: auto;
+    margin-inline-end: auto;
+    border-top-style: inset;
+    border-top-width: 1px;
+}
+
+.contents h3 {
+    margin-right: 0px;
+    margin-bottom: 20px;
+    padding: 30px 130px 30px 30px;
+    background-color: #fff;
+    border: 1px solid #d1d1d1;
+    border-radius: 4px;
+}
+
+.contents h3:hover {
+    color: black;
+    padding-left: 40px;
+}

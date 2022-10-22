@@ -1,0 +1,64 @@
+<!DOCTYPE html>
+<html lang="ja">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width = device-width" , initial-scale=1.0">
+    <title>授業評価システム(仮)</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+
+<body>
+    <header>
+        <a href="../../index.html" class="logo">Teval</a>
+        <ul class="navigation">
+            <li><a href="../../index.html">Home</a></li>
+            <li><a href="../Review.html">Review</a></li>
+            <li><a href="../../Ranking/Ranking.html">Ranking</a></li>
+            <!--<li><a href="../Statistics/Statistics.html">Statistics</a></li>-->
+            <li><a href="../../About/about.html">About us</a></li>
+        </ul>
+        <!--
+        <div class="search">
+            <input type="text" placeholder="これはいらない気もする">
+            <ion-icon name="search-outline"></ion-icon>
+        </div> -->
+    </header>
+    <navi class="side-navi">
+        <section>
+            <ul>
+                <li><a href="#">SY02 電子回路</a></li>
+                <li><a href="#">SY04 組込みシステム</a></li>
+                <li><a href="#">SY05 並列コンピュータシステム</a></li>
+                <li><a href="#">SY06 VLSI設計技術</a></li>
+                <li><a href="#">SY07 論理回路設計特論</a></li>
+
+            </ul>
+        </section>
+    </navi>
+    <div class="content">
+        <h1>コンピュータ・システム関連科目</h1>
+        <hr aria-hidden="true" class="sb-rule pb" size="0.2">
+        <a href="#">
+            <h3>SY02 電子回路</h3>
+        </a>
+        <a href="#">
+            <h3>SY04 組込みシステム</h3>
+        </a>
+        <a href="#">
+            <h3>SY05 並列コンピュータシステム</h3>
+        </a>
+        <a href="#">
+            <h3>SY06 VLSI設計技術</h3>
+        </a>
+        <a href="#">
+            <h3>SY07 論理回路設計特論</h3>
+        </a>
+
+    </div>
+
+    <script type="module" src="https://unpkg.com/ionicons@5.5.2/dist/ionicons/ionicons.esm.js"></script>
+    <script nomodule src="https://unpkg.com/ionicons@5.5.2/dist/ionicons/ionicons.js"></script>
+</body>
+
+</html>

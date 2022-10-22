@@ -1,0 +1,241 @@
+@import url('https://fonts.googleapis.com/css2?family=Ubuntu&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Noto+Sans+JP&family=Zen+Maru+Gothic&display=swap');
+
+.text-underline {
+    text-decoration: underline !important
+}
+
+.text-noUnderline {
+    text-decoration: none !important
+}
+
+.sb-rule {
+    border: 0;
+    margin: 0;
+}
+
+.pu {
+    padding-top: 2.5rem !important;
+}
+
+.pb {
+    padding-bottom: 2.5rem !important;
+}
+
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: 'Ubuntu', sans-serif;
+}
+
+
+/* ヘッダーの設定*/
+header {
+    background-color: #fff;
+    position: absolute;
+    position: fixed;
+    top: 0;
+    left: 0;
+    width: 100%;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 15px 100px;
+    z-index: 10;
+}
+
+/* これはロゴの設定 */
+header .logo {
+    position: relative;
+    font-size: 2.0em;
+    text-decoration: none;
+    font-weight: 600;
+    color: orange;
+}
+
+/* header .logo:hover {
+    color: orangered
+} */
+
+/* これはナビゲーションバーの設定 */
+header .navigation {
+    display: flex;
+    justify-content: center;
+    flex-wrap: wrap;
+    margin: 10px 0;
+}
+
+header .navigation li {
+    list-style: none;
+    margin: 0 10px;
+}
+
+header .navigation li a {
+    color: orange;
+    text-decoration: none;
+    font-weight: 500;
+    letter-spacing: 1px;
+}
+
+header .navigation li a:hover {
+    color: orangered
+}
+
+header .search {
+    position: relative;
+    width: 300px;
+    height: 40px;
+}
+
+header .search input {
+    position: absolute;
+    top: 0;
+    Left: 0;
+    width: 100%;
+    height: 100%;
+    background: transparent;
+    outline: solid black;
+    border: 1px solid #fff;
+    border-radius: 4px;
+    padding: 0 10px 0 45px;
+}
+
+header .search [name=search-outline] {
+    position: absolute;
+    top: 50%;
+    transform: translateY(-50%);
+    left: 10px;
+    color: black;
+    border-right: 2px solid;
+    padding-right: 10px;
+}
+
+header .search [name=submit] {
+    position: absolute;
+    left: 310px;
+    width: 20%;
+    height: 100%;
+    padding: 0;
+    border: 1px solid #fff;
+}
+
+/* ホームコンテンツ */
+.banner {
+    background-color: antiquewhite;
+    padding: 200px 100px 100px;
+    min-height: 100vh;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+#content h1,
+h2,
+h3,
+p {
+    font-family: 'Noto Sans JP', sans-serif;
+}
+
+/* サイドバー */
+.side-navi {
+    /* background-color: blueviolet; */
+    position: absolute;
+    width: 190px;
+    top: 150px;
+    left: 70px;
+}
+
+.side-navi h4 {
+    font-family: 'Noto Sans JP', sans-serif;
+    padding: 10px 10px;
+}
+
+.side-navi li {
+    font-family: 'Noto Sans JP', sans-serif;
+    list-style: none;
+    padding: 10px 10px;
+}
+
+.side-navi li a {
+    text-decoration: none;
+    color: rgba(0, 0, 0, .58);
+}
+
+.side-navi li a:hover {
+    text-decoration: none;
+    color: rgba(0, 0, 0, .7);
+}
+
+/* main contents */
+.headline {
+    position: absolute;
+    /* background-color: blue; */
+    top: 100px;
+    left: 300px;
+    width: 800px;
+}
+
+.headline h1,
+p {
+    font-family: 'Noto Sans JP', sans-serif;
+}
+
+#content {
+    font-family: 'Noto Sans JP', sans-serif;
+    /* background-color: pink; */
+    width: 800px;
+    margin: 0px auto;
+    position: absolute;
+    top: 200px;
+    left: 300px;
+}
+
+#content p {
+    background-color: rgba(157, 204, 224, .8);
+    width: 45px;
+    position: relative;
+    left: 700px;
+    top: -25px;
+    border: 1px solid;
+    border-color: #fff;
+    border-radius: 5px;
+}
+
+/*#content {
+    /*background-color: blueviolet;
+}*/
+
+#content h1,
+h3 {
+    font-family: 'Noto Sans JP', sans-serif;
+}
+
+#content hr {
+    display: block;
+    margin-block-start: 0.5em;
+    margin-block-end: 0.5em;
+    margin-inline-start: 0em;
+    margin-inline-end: auto;
+    border-top-style: inset;
+    border-top-width: 1px;
+}
+
+#content h3 {
+    margin-right: 0px;
+    margin-bottom: 10px;
+    padding: 30px 130px 30px 30px;
+    /* background-color: #fff; */
+    border: 1px solid #d1d1d1;
+    border-radius: 4px;
+}
+
+#content a {
+    text-decoration: none;
+    color: rgba(0, 0, 0, .58);
+}
+
+#content h3:hover {
+    color: black;
+    padding-left: 40px;
+}

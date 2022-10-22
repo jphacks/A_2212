@@ -1,0 +1,64 @@
+<!DOCTYPE html>
+<html lang="ja">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width = device-width" , initial-scale=1.0">
+    <title>授業評価システム(仮)</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+
+<body>
+    <header>
+        <a href="../index.html" class="logo">Teval</a>
+        <ul class="navigation">
+            <li><a href="../index.html">Home</a></li>
+            <li><a href="../Review/Review.html">Review</a></li>
+            <li><a href="../Ranking/Ranking.html">Ranking</a></li>
+            <!--<li><a href="../Statistics/Statistics.html">Statistics</a></li>-->
+            <li><a href="../About/about.html">About us</a></li>
+        </ul>
+        <!--
+        <div class="search">
+            <input type="text" placeholder="これはいらない気もする">
+            <ion-icon name="search-outline"></ion-icon>
+        </div> -->
+    </header>
+    <div class="content">
+        <h1>Our team</h1>
+        <img src="../meeting.jpeg" alt="作業の様子">
+        <h2>Our story</h2>
+        <p>Our story began when one of our members suddenly muttered, "We should have a place and content where we can
+            hang the ideas we each want to do". In the beginning, we spent our days getting together and wasting time
+            with idle talk and chit-chat. However, each member had a
+            burning desire to create something innovative.
+        </p>
+        <p>
+            The team leader kicked things off by saying, "Let's not just
+            talk about it, let's put it into practice. Are you going to throw all the ideas you've had in the trash?".
+            No one objected. The members of the team were of one mind from the start.
+        </p>
+        <p>
+            This project was started with the idea of starting with something close to home. I am sure everyone who uses
+            this page has different ideas. Some are looking for easy credits, some are looking for high quality classes.
+            I hope this page will be useful for all of you.
+        </p>
+
+        <img src="../shake.jpg" alt="事を成す" class="pu">
+        <h2>Our goal</h2>
+        <p>
+            We have no goal. Our dream is to contribute, even if only a little, to making this world a more convenient
+            place to live. We believe that there are no limits. That is why we do not have a goal, but would like to
+            keep running as far as we can.
+        </p>
+
+        <img src="../team.jpeg" alt="チーム" class="pu">
+        <h2>Join us!</h2>
+        <p>Combine your imagination with ours to create unique values! Your evolution is directly related to the
+            evolution of the planet.</p>
+    </div>
+    <script type="module" src="https://unpkg.com/ionicons@5.5.2/dist/ionicons/ionicons.esm.js"></script>
+    <script nomodule src="https://unpkg.com/ionicons@5.5.2/dist/ionicons/ionicons.js"></script>
+</body>
+
+</html>
